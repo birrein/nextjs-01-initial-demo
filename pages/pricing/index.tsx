@@ -11,7 +11,7 @@ export default function PricingPage() {
       </h1>
 
       <p className="description">
-        Get started by editing <code className="code">pages/pricing/index.jsx</code>
+        Get started by editing <code className="code">pages/pricing/index.tsx</code>
       </p>
     </MainLayout>
   );
